@@ -548,7 +548,7 @@
   dependencies:
     "@emotion/memoize" "^0.8.1"
 
-"@emotion/is-prop-valid@^0.8.2", "@emotion/is-prop-valid@^0.8.8":
+"@emotion/is-prop-valid@^0.8.8":
   version "0.8.8"
   resolved "https://registry.yarnpkg.com/@emotion/is-prop-valid/-/is-prop-valid-0.8.8.tgz#db28b1c4368a259b60a97311d6a952d4fd01ac1a"
   integrity sha512-u5WtneEAr5IDG2Wv65yhunPSMLIpuKsbuOktRojfrEiEvRyC85LgPMZI63cr7NUqT8ZIGdSVg8ZKGxIug4lXcA==
@@ -5909,14 +5909,12 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-framer-motion@^10.17.6:
-  version "10.17.6"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-10.17.6.tgz#eaf9a1effd1ed9c86f026026d9526b6549e4be7b"
-  integrity sha512-WPPm0vLGTbhLOsD7v1fEv3yjX1RrmzsVI3CZ6dpBJvVb7wKMA6mpZsQzTYiSUDz/YIlvTUHHY0Jum7iEHnLHDA==
+framer-motion@^11.0.18:
+  version "11.0.18"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-11.0.18.tgz#989e36874111b3cfebbaae9dcd0f4168fed899bd"
+  integrity sha512-TPKJ1KqQzTQ//cGFAb/jrpbbNY8UVh2q69vAcVRA8AxsKYkl5nrW1nsmrHRc5dLsRdwlXSV1kuo1Khylhph7kw==
   dependencies:
     tslib "^2.4.0"
-  optionalDependencies:
-    "@emotion/is-prop-valid" "^0.8.2"
 
 fresh@~0.5.2:
   version "0.5.2"
